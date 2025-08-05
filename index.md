@@ -11,32 +11,6 @@ ECAID is a public standard for evaluating, disclosing, and discussing how and wh
 The current version of the standard is most applicable to music and music marketing, created with any level of the use of generative or not.
 
 ---
-## Why ECAID?
-
-### 🎯 Clarity over hype  
-
-AI is changing how we make music—but conversations about it are often full of extremes.  
-**ECAID offers a clear, grounded way to talk about how AI actually shows up in creative work**, beyond the buzzwords and fearmongering, while also acknowledging that work created using generative AI *can* have value to various stakeholders.
-
----
-
-## 🥽 Transparency without shame  
-
-Creators deserve the freedom to experiment.  
-Whether you're using AI for a single sound or to shape an entire track, **ECAID helps you explain your process without apology**—just honesty, context, and confidence.
-
-**Listeners deserve disclosure**—to avoid feeling duped after unknowingly becoming invested in something that was created with *any* level of AI generative input.
-
----
-
-## 🧭 A framework for creators, curators, and communities  
-
-ECAID isn’t a rating or a rulebook. It’s a shared language.  
-**Artists can self-assess, fans can explore, and curators can make better decisions.**  
-It’s here to support ethical intent, creative control, and deeper understanding—whatever your role.  
-
-Whether you're an artist, label, curator, educator, or platform, ECAID helps you map and explain the role of AI in a nuanced way. It’s not a pass/fail score—it’s a language for talking about process, ethics, and intention.
-
 
 ## What Is ECAID?
 
@@ -57,28 +31,30 @@ These profiles can be shared, used for internal guidance, or shown visually as a
 **ECAID doesn’t judge if AI was used**—it helps explain *how* and *why*,  
 so that creators, fans, and platforms can make more informed, intentional choices.
 
+ECAID isn’t a rating or a rulebook. It’s a shared language.  
+**Artists can self-assess, fans can explore, and curators can make better decisions.**  
+It’s here to support ethical intent, creative control, and deeper understanding—whatever your role.  
 
+## Who is it for? 
+Whether you're an artist, label, curator, educator, or platform, ECAID helps you map and explain the role of AI in a nuanced way. Since it’s not a pass/fail score—it’s a language for talking about process, ethics, and intention.
 
-## <a name="axes"></a>The Five Axes
+---
 
-**1. Execution**  
-How convincingly does the work present itself as human-made? This axis reflects the likelihood that the work will be perceived as not involving AI, based on polish, nuance, timing, and expressive realism.
+## Why ECAID?
 
-**2. Cultural Sensitivity**  
-How was the work informed by or engaged with cultural context? This axis reflects the degree to which it honors, respects, or thoughtfully incorporates stylistic or cultural elements.
+### 🎯 Clarity over hype  
 
-**3. Authenticity (Authorship)**  
-How was the work initiated, directed, or shaped by a human creator? This considers the presence of meaningful human authorship or decision-making.
+AI is changing how we make music—but conversations about it are often full of extremes.  
+**ECAID offers a clear, grounded way to talk about how AI actually shows up in creative work**, beyond the buzzwords and fearmongering, while also acknowledging that work created using generative AI *can* have value to various stakeholders.
 
-**4. Intention**  
-How was AI used, and why? This axis explores the creator’s motivation—whether experimental, expressive, practical, or commercial.
+---
 
-**5. Disclosure**  
-How is the use of AI communicated to the audience? This considers clarity, transparency, and context across credits, metadata, and public messaging.
+### 🥽 Transparency without shame  
 
-Each axis is scored 0–10. The scores are visualized in a radar chart, helping audiences interpret the context and ethics of AI-assisted work.
+Creators deserve the freedom to experiment.  
+Whether you're using AI for a single sound or to shape an entire track, **ECAID helps you explain your process without apology**—just honesty, context, and confidence.
 
-
+**Listeners deserve disclosure**—to avoid feeling duped after unknowingly becoming invested in something that was created with *any* level of AI generative input.
 
 ---
 
@@ -88,20 +64,19 @@ Each axis is scored 0–10. The scores are visualized in a radar chart, helping 
 - 📊 Share ECAID scores in your credits or metadata  
 - 🤝 Join the community of artists and curators building a better disclosure culture  
 
-[Jump to Axes](#axes) | [Jump to Full Guide](#foundation)
+ [Jump to the standard documentatoin](#foundation)
 
 ---
 
+## Preamble
 <small>
 Note on Use of AI in Documentation  
 This site includes contributions generated with the assistance of AI tools to help collect, structure, and present knowledge about AI use in creative works. All content has been reviewed by qualified human authors to ensure consistency with the ECAID standard and current ethical practices.
 </small>
 
 ---
-
-## License
 <small>
-All content on this site, including the ECAID framework, documentation, and scoring guidelines, is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/) license.
+License: All content on this site, including the ECAID framework, documentation, and scoring guidelines, is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/) license.
 
 You are free to:
 
@@ -115,140 +90,165 @@ Under the following terms:
 All content © 2025 The ECAID Project. All rights reserved.
 </small>
 
-# <a name="foundation"></a>Foundational Guide: Understanding ECAID
+## Table of Contents
+   ### 🧭 Tier 1: Orientation & Core Standard
+   For first-time users, casual readers, and creators looking to apply the framework
 
-## Introduction
+   - [Introduction to the ECAID Standard](#ecaid-introduction)
+   - [Definitions and Scope of Each Axis](#ecaid-definitions)
+   - [The ECAID Checklist (v1.0)](#ecaid-checklist)
+   - [Interpretation Guide for ECAID Scores](#ecaid-interpretation)
+   - [Badge and Scoring Visualization Guidelines](#ecaid-visualization)
 
-ECAID (Ethical Creator Authorship and Intent Disclosure) is a flexible framework for evaluating and communicating how AI is used in the creation of artistic or expressive works. Rather than classifying works as either “AI” or “not AI,” ECAID offers a nuanced profile across five axes:
+   ### 🛠️ Tier 2: Use, Disclosure & Ethics
+   For artists, labels, curators, and platforms applying or responding to the standard
 
-- **Execution**
-- **Cultural Sensitivity**
-- **Authenticity**
-- **Intention**
-- **Disclosure**
+   - [Guidelines for Self-Assessment](#ecaid-self-assessment)
+   - [Guidelines for Third-Party Estimation](#ecaid-third-party)
+   - [Public Disclosure and Ethics in the Absence of Regulation](#ecaid-ethics)
+   - [Use of ECAID in Music Marketing and Discovery](#ecaid-marketing)
+   - [ECAID Use Disclosure Templates](#ecaid-templates)
 
-Each axis is scored from 0 to 10, with optional qualitative commentary or metadata tags. The result can be visualized using a radar chart, shared publicly, or used internally for audits, publishing, or curatorial purposes.
+   ### 🧠 Tier 3: Deeper Theory & Cultural Context
+   For researchers, journalists, critics, and developers of adjacent tools
 
----
+   - [Handling Synthetic Performance and AI Tools](#ecaid-synthetic-performance)
+   - [Relationship Between Authenticity, Intention, and Disclosure](#ecaid-axis-relationships)
+   - [Framework for Cultural Sensitivity vs Appropriation](#ecaid-cultural-framework)
+   - [Application to Non-Music Creative Domains](#ecaid-non-music)
 
-## Axis Breakdown
+   ### 🧩 Tier 4: Infrastructure, Publishing & Governance
+   For collaborators, contributors, and organizations integrating ECAID
 
-### 1. Execution
+   - [Implementation Best Practices for Artists and Labels](#ecaid-best-practices)
+   - [Badge Licensing and Distribution Model](#ecaid-licensing)
+   - [Governance, Change Management, and Versioning](#ecaid-governance)
+   - [Full ECAID Standard Reference Document](#ecaid-full-spec)
+   - [Academic Proposal and Publishing Strategy](#ecaid-publishing)
+   - [Official ECAID Checklist Template (v1.0)](#ecaid-checklist-template)
 
-This measures how convincingly the final work could be perceived as human-made. It reflects polish, nuance, fluency, expressive detail, pacing, and emotional plausibility.
 
-- **High scores (8–10)**: The work feels fully human-crafted to most observers.
-- **Mid-range (4–7)**: The work has visible or audible machine signatures but is still expressive or skillfully rendered.
-- **Low scores (0–3)**: The work is obviously or explicitly synthetic in feel, lacking subtlety or refinement.
+## <a name="foundation"></a>Foundational Guide: Understanding ECAID
 
-### 2. Cultural Sensitivity
+   ### Introduction
+   
+   ECAID (Ethical Creator Authorship and Intent Disclosure) is a flexible framework for evaluating and communicating how AI is used in the creation of artistic or expressive works. Rather than classifying works as either “AI” or “not AI,” ECAID offers a nuanced profile across five axes:
+   
+   **The Five Axes**
 
-This measures whether the work respects the traditions, idioms, and sociocultural context of the styles or voices it draws from.
+   **1. Execution**  
+      _How convincingly does the work present itself as human-made? This axis reflects the likelihood that the work will be perceived as not involving AI, based on polish, nuance, timing, and expressive realism._
 
-- **High scores**: The work shows awareness, care, and respectful engagement with source material.
-- **Mid-range**: The work borrows stylistically without obvious harm or benefit.
-- **Low scores**: The work caricatures, exploits, or erases cultural context.
+   **2. Cultural Sensitivity**  
+      _How was the work informed by or engaged with cultural context? This axis reflects the degree to which it honors, respects, or thoughtfully incorporates stylistic or cultural elements._
+      
+   **3. Authenticity (Authorship)**  
+      _How was the work initiated, directed, or shaped by a human creator? This considers the presence of meaningful human authorship or decision-making._
+   
+   **4. Intention**  
+      _How was AI used, and why? This axis explores the creator’s motivation—whether experimental, expressive, practical, or commercial._
 
-### 3. Authenticity (Authorship)
+   **5. Disclosure**  
+      _How is the use of AI communicated to the audience? This considers clarity, transparency, and context across credits, metadata, and public messaging._
 
-This measures how meaningfully a human creator initiated, shaped, or directed the outcome.
-
-- **High scores**: The work clearly reflects individual human choices, artistic development, or narrative intent.
-- **Mid-range**: The human role was present but minimal, curated, or constrained.
-- **Low scores**: The process was entirely delegated to AI with no meaningful authorship or creative curation.
-
-### 4. Intention
-
-This measures why AI was used—whether for expression, efficiency, experimentation, profit, or novelty.
-
-- **High scores**: AI is used with care, reflection, and artistic or expressive goals.
-- **Mid-range**: AI is used out of convenience or technical experimentation.
-- **Low scores**: AI is used purely to generate monetizable content or deceive.
-
-### 5. Disclosure
-
-This measures how clearly the use of AI is explained or acknowledged to the audience.
-
-- **High scores**: The role of AI is explicitly disclosed in credits, metadata, or artist statements.
-- **Mid-range**: Some signs are present but unclear or buried.
-- **Low scores**: The use of AI is intentionally hidden or misrepresented.
-
----
-
-## What ECAID Is Not
-
-- ECAID is **not a scorecard for judging quality.** A work can be brilliant and still score low on authorship or disclosure.
-- ECAID is **not a gatekeeper.** It does not assign legitimacy. It provides a transparent snapshot of process and ethics.
-- ECAID is **not a certification or license.** It is a voluntary standard.
+   Each axis is scored from 0 to 10, with optional qualitative commentary or metadata tags. The result can be visualized using a radar chart, shared publicly, or used internally for audits, publishing, or curatorial purposes.
 
 ---
 
-## Use Cases
+   ### What can the answers to these questions in each of these measures tell us?
 
-- **Artists and Labels:** Add ECAID scores to your liner notes, credits, or metadata.
-- **Curators and Publishers:** Use ECAID internally to evaluate submissions or signal transparency.
-- **Educators and Researchers:** Use ECAID as a tool for discussion, media literacy, or analysis.
-- **Audiences and Fans:** Use ECAID charts to better understand how work is made.
+   ### 1. Execution
+
+   This measures how convincingly the final work could be perceived as human-made. It reflects polish, nuance, fluency, expressive detail, pacing, and emotional plausibility.
+
+   - **High scores (8–10)**: The work feels fully human-crafted to most observers.
+   - **Mid-range (4–7)**: The work has visible or audible machine signatures but is still expressive or skillfully rendered.
+   - **Low scores (0–3)**: The work is obviously or explicitly synthetic in feel, lacking subtlety or refinement.
+
+   ### 2. Cultural Sensitivity
+
+   This measures whether the work respects the traditions, idioms, and sociocultural context of the styles or voices it draws from.
+
+   - **High scores**: The work shows awareness, care, and respectful engagement with source material.
+   - **Mid-range**: The work borrows stylistically without obvious harm or benefit.
+   - **Low scores**: The work caricatures, exploits, or erases cultural context.
+
+   ### 3. Authenticity (Authorship)
+
+   This measures how meaningfully a human creator initiated, shaped, or directed the outcome.
+
+   - **High scores**: The work clearly reflects individual human choices, artistic development, or narrative intent.
+   - **Mid-range**: The human role was present but minimal, curated, or constrained.
+   - **Low scores**: The process was entirely delegated to AI with no meaningful authorship or creative curation.
+
+   ### 4. Intention
+
+   This measures why AI was used—whether for expression, efficiency, experimentation, profit, or novelty.
+
+   - **High scores**: AI is used with care, reflection, and artistic or expressive goals.
+   - **Mid-range**: AI is used out of convenience or technical experimentation.
+   - **Low scores**: AI is used purely to generate monetizable content or deceive.
+
+   ### 5. Disclosure
+
+   This measures how clearly the use of AI is explained or acknowledged to the audience.
+
+   - **High scores**: The role of AI is explicitly disclosed in credits, metadata, or artist statements.
+   - **Mid-range**: Some signs are present but unclear or buried.
+   - **Low scores**: The use of AI is intentionally hidden or misrepresented.
 
 ---
 
-## Formats
+   ### What ECAID Is Not
 
-ECAID scores can be shared:
-
-- As a **numerical profile**
-- As a **radar chart** (with optional captions)
-- As **text commentary** in liner notes, site copy, or metadata
-
-Example:
-
-| Execution | Cultural Sensitivity | Authenticity | Intention | Disclosure |
-|-----------|----------------------|--------------|-----------|------------|
-|     8     |          9           |      6       |     7     |     10     |
-
-This work was composed by a human using AI tools to assist with arrangement and vocal synthesis. The use of AI is fully disclosed. The work reflects thoughtful cultural engagement and clear creative direction, though much of the audio was rendered synthetically.
+   - ECAID is **not a scorecard for judging quality.** A work can be brilliant and still score low on authorship or disclosure.
+   - ECAID is **not a gatekeeper.** It does not assign legitimacy. It provides a transparent snapshot of process and ethics.
+   - ECAID is **not a certification or license.** It is a voluntary standard.
+   - ECAID is **not a tool for evaluating generative content tools or platforms.** It is concerned only with the output of such tools and the derivative works developed after using such tools.
 
 
+---
 
-## Summary
+   ### Use Cases
 
-ECAID provides a practical, adaptable language for talking about the complexity of AI use in creative work. It helps distinguish intent from impact, performance from process, and authorship from automation—without shaming or glorifying either.
+   - **Artists and Labels:** Add ECAID scores to your liner notes, credits, or metadata.
+   - **Curators and Publishers:** Use ECAID internally to evaluate submissions or signal transparency.
+   - **Educators and Researchers:** Use ECAID as a tool for discussion, media literacy, or analysis.
+   - **Audiences and Fans:** Use ECAID charts to better understand how work is made.
 
-## 🧭 Tier 1: Orientation & Core Standard
-For first-time users, casual readers, and creators looking to apply the framework
 
-- [Introduction to the ECAID Standard](#ecaid-introduction)
-- [Definitions and Scope of Each Axis](#ecaid-definitions)
-- [The ECAID Checklist (v1.0)](#ecaid-checklist)
-- [Interpretation Guide for ECAID Scores](#ecaid-interpretation)
-- [Badge and Scoring Visualization Guidelines](#ecaid-visualization)
+---
 
-## 🛠️ Tier 2: Use, Disclosure & Ethics
-For artists, labels, curators, and platforms applying or responding to the standard
+   ### Formats
+   ECAID scores can either be **self disclosed OR 3rd party evaluated**. It is most effective as a disclosure tool, however it also provides a nuanced language for discussing others works.  
+   ECAID scores are determined by finding the highest scored statements apply to each measure on to the standard checklist.  
 
-- [Guidelines for Self-Assessment](#ecaid-self-assessment)
-- [Guidelines for Third-Party Estimation](#ecaid-third-party)
-- [Public Disclosure and Ethics in the Absence of Regulation](#ecaid-ethics)
-- [Use of ECAID in Music Marketing and Discovery](#ecaid-marketing)
-- [ECAID Use Disclosure Templates](#ecaid-templates)
+   ECAID scores can be shared:
+   - As a **numerical profile**
+   - As a **radar chart** (with optional captions)
+   - As **text commentary** in liner notes, site copy, or metadata
 
-## 🧠 Tier 3: Deeper Theory & Cultural Context
-For researchers, journalists, critics, and developers of adjacent tools
+   Examples:
 
-- [Handling Synthetic Performance and AI Tools](#ecaid-synthetic-performance)
-- [Relationship Between Authenticity, Intention, and Disclosure](#ecaid-axis-relationships)
-- [Framework for Cultural Sensitivity vs Appropriation](#ecaid-cultural-framework)
-- [Application to Non-Music Creative Domains](#ecaid-non-music)
+   | Execution | Cultural Sensitivity | Authenticity | Intention | Disclosure |
+   |-----------|----------------------|--------------|-----------|------------|
+   |     8     |          9           |      6       |     7     |     10     |
 
-## 🧩 Tier 4: Infrastructure, Publishing & Governance
-For collaborators, contributors, and organizations integrating ECAID
+   This work was composed by a human using AI tools to assist with arrangement and vocal synthesis. The use of AI is fully disclosed. The work reflects thoughtful cultural engagement and clear creative direction, though much of the audio was rendered synthetically.
 
-- [Implementation Best Practices for Artists and Labels](#ecaid-best-practices)
-- [Badge Licensing and Distribution Model](#ecaid-licensing)
-- [Governance, Change Management, and Versioning](#ecaid-governance)
-- [Full ECAID Standard Reference Document](#ecaid-full-spec)
-- [Academic Proposal and Publishing Strategy](#ecaid-publishing)
-- [Official ECAID Checklist Template (v1.0)](#ecaid-checklist-template)
+   (PLACEHOLDER FOR X/X/X/X/X profile)
+   (PLACEHOLDER FOR RADAR BADGE)
+
+
+---
+
+   ### Summary
+
+   ECAID provides a practical, adaptable language for talking about the complexity of AI use in creative work. It helps distinguish intent from impact, performance from process, and authorship from automation—without shaming or glorifying either.
+
+
+
+
 
 ## <a name="ecaid-introduction"></a>Introduction to the ECAID Standard
 
@@ -293,6 +293,8 @@ ECAID supports ethical transparency by:
 - Laying groundwork for future standards, licensing, and recognition systems
 
 This is a voluntary framework—meant to foster openness, not impose judgment.
+
+---
 
 ## <a name="ecaid-definitions"></a>Definitions and Scope of Each Axis
 
@@ -366,6 +368,7 @@ Disclosure supports ethical transparency and informed reception. It enables audi
 ---
 
 These five axes can be scored independently from 0 to 10, then combined into a visual or written summary. Together, they form the core structure of ECAID.
+
 
 
 ## <a name="ecaid-checklist"></a>The ECAID Checklist (v1.0)
@@ -742,6 +745,8 @@ As the music world adapts to AI, ECAID lets artists lead the conversation instea
 Transparent creators build loyalty.  
 Clarity outlasts trend cycles.**
 
+
+
 ## <a name="ecaid-templates"></a>ECAID Use Disclosure Templates
 
 Clear disclosure helps your audience understand how AI was used in your creative process.  
@@ -823,6 +828,7 @@ You can tailor your message based on audience and purpose:
 **Reminder:**  
 You don’t need to overexplain—just be honest, consistent, and clear.  
 Disclosure should feel normal, not like a warning.
+
 
 ## <a name="ecaid-synthetic-performance"></a>Handling Synthetic Performance and AI Tools
 
@@ -1930,7 +1936,613 @@ Here is each of those possibilities visualized as a radar chart:
 ### Why These Shapes Matter
 
 One of the best parts of the ECAID system is its **non-binary labeling** of each of the five dimensions.  
-In actual use, scores can range from **0 to 10**, making the number of possible chart shapes practically infinite.
+In actual use, scores can range from **0 to 10**, making the number of possible chart shapes practically infinite. (Technically, there are 10,000 possibilities)
 
-But understanding these **32 binary archetypes** is useful.  
+But, understanding these **32 binary archetypes** is useful.  
 They serve as **visual anchors**—the most exaggerated or extreme examples of a given profile—and can be used as reference points in conversation, documentation, or scoring discussions.
+
+---
+
+## ECAID Radar Chart Library
+
+Welcome to the official reference library of radar charts based on the **ECAID** framework (Execution, Cultural Sensitivity, Authenticity, Intention, Disclosure). These profiles help illustrate the ethical structure of AI-involved creative works.
+
+This chart set includes all **32 binary combinations** of high/low scores across the five ECAID axes. Each entry features:
+
+- A radar chart (Execution at 12 o’clock, clockwise)
+- A 5-digit score profile (1 = high, 0 = low)
+- A sample interpretation for context
+
+---
+
+### 📊 Full Contact Sheet
+
+![ECAID Radar Chart Contact Sheet](/assets/images/ecaid-radar-library.png)
+
+_Above: All 32 radar charts displayed in structured grid format (8×4) using tech blue theme._
+
+---
+
+### 🧠 Chart Interpretations
+
+00111|A well-intentioned, transparent project with a personal voice, but minimal craft or cultural awareness. Feels honest, even if the execution is rough.
+01111|Raw but sincere. Transparent about its origin, respectful of its influences, and rooted in a personal experience—but unpolished in form.
+10111|Polished and expressive, with clear authorship and disclosure, but lacking cultural depth. Feels stylized but floating.
+11111|Fully realized work. High craft, clear authorship, cultural care, expressive intention, and transparent disclosure. Ethical gold standard.
+00101|A rough, semi-transparent effort with some genuine voice—but little intention or context. Feels like a sketch made public.
+01101|More thoughtful in its references, with some care for influence—but still lacks deliberate structure or expressive aim.
+10101|Well-produced with some author presence and disclosure, but feels automatic. Lacks clear emotional or cultural intent.
+11101|Slick and rooted, with clarity and craft—but intention feels generic or performative. Disclosure supports interpretation.
+00011|Open and intentional, but entirely synthetic in form and authorship. A concept, not a voice.
+01011|Feels respectful and transparent, with good intent, but has no personal voice or authorship. More curatorial than creative.
+10011|Stylish, declared, and expressive—but impersonal and culturally disengaged. A clean synthetic performance.
+11011|Strong form and cultural framing, with honest intent and disclosure—but lacks personal authorship. Feels crafted by committee.
+00001|Disclosed AI output with no meaningful direction or identity. A placeholder, not a statement.
+01001|Appears to respect culture, but without authorship, execution, or expressive aim. Feels empty despite good references.
+10001|High gloss and clean output, openly disclosed—but no deeper engagement. Feels commercially competent, ethically thin.
+11001|Well-crafted and culturally fluent, but lacking identity or expressive motive. Disclosure helps mitigate ethical ambiguity.
+00110|Emotionally sincere with personal authorship—but no transparency or cultural framing. Feels vulnerable, but murky.
+01110|Earnest and rooted in culture and intention, with clear authorship—but hidden methods. Risks misleading interpretation.
+10110|Strong authorship and execution, intentionally expressive—but undisclosed. Raises questions despite emotional power.
+11110|Nearly ideal work, but lacks transparency. Without disclosure, assumptions may distort perception.
+00100|Quietly personal but unclear in motive or origin. Feels like a found object—real but contextless.
+01100|Culturally attuned and authored, but lacking intention and clarity. May be interpreted in ways not aligned with its use.
+10100|Clean production and personal authorship, but ethically foggy. Feels promotional or anonymous.
+11100|Slick and embedded in cultural understanding, with personal voice—but ambiguous in purpose and disclosure.
+00010|A conceptually expressive but structurally thin work. Feels like a prompt result with a hint of intention.
+01010|Feels like a tribute or cultural commentary. Honest in aim but distant in execution and origin.
+10010|A polished emotional gesture with no authorship or disclosure. Feels manipulative without context.
+11010|Culturally aware and expressive, but missing authorship and disclosure. Could mislead or be appropriative.
+00000|Opaque, unskilled, unauthored, unintended, undisclosed. Functionally meaningless.
+01000|Culturally adjacent work without clarity, intention, authorship, or skill. Possibly imitative or accidental.
+10000|A technically clean but decontextualized artifact. No voice, no disclosure, no roots.
+11000|Well-made, culturally stylized—but with no expressive core or ethical anchoring. Looks real, feels hollow.
+
+
+## ECAID Visual Templates & Tooling Instructions
+
+This guide helps you generate ECAID radar charts using open tools that align with the official visual standard. These charts can be used for self-assessment, public disclosure, or institutional tagging of creative works involving AI.
+
+---
+
+### 🔧 Chart Specifications
+
+#### 🧭 Radar Layout
+
+- **Axes (clockwise):**
+  1. Execution (12 o’clock)
+  2. Cultural Sensitivity
+  3. Authenticity
+  4. Intention
+  5. Disclosure
+- **Scale:** 0 to 10
+- **Axis Count:** 5
+- **Grid Type:** Circular / radial grid
+- **Fill Color:** Semi-transparent blue (#4EA6F7, 40% opacity)
+- **Outline Color:** Solid blue (#0A58CA)
+- **Border Line:** White or light gray
+- **Background:** White
+
+---
+
+### 🧰 Tooling Options
+
+#### 1. Google Sheets
+
+Quick and accessible for non-coders.
+
+**Steps:**
+- Go to **Insert → Chart → Radar Chart**
+- Use one row for axis labels: Execution, Cultural, Authenticity, Intention, Disclosure
+- Use the next row for values: 0–10 per axis
+- Customize colors and export chart as PNG
+
+**[📎 Example Template – Coming Soon]**
+
+---
+
+#### 2. Charticulator (Microsoft Research)
+
+Advanced browser-based custom chart tool.
+
+**Steps:**
+- Go to [https://charticulator.com](https://charticulator.com)
+- Create a polar plot with 5 dimensions
+- Upload your CSV or enter values manually
+- Export as SVG or PNG
+
+---
+
+#### 3. Python (Matplotlib)
+
+For developers and batch generation.
+
+<pre><code class="language-python">
+import matplotlib.pyplot as plt
+import numpy as np
+
+labels = ['Execution', 'Cultural', 'Authenticity', 'Intention', 'Disclosure']
+scores = [7, 6, 10, 9, 4]
+angles = np.linspace(0, 2 * np.pi, len(labels), endpoint=False).tolist()
+scores += scores[:1]
+angles += angles[:1]
+
+fig, ax = plt.subplots(figsize=(6, 6), subplot_kw=dict(polar=True))
+ax.plot(angles, scores, color='#0A58CA', linewidth=2)
+ax.fill(angles, scores, color='#4EA6F7', alpha=0.4)
+ax.set_yticks([2, 4, 6, 8, 10])
+ax.set_xticks(angles[:-1])
+ax.set_xticklabels(labels)
+plt.show()
+</code></pre>
+
+---
+
+### 🧩 Optional Assets (Coming Soon)
+
+- Blank radar grid (SVG, PNG)
+- Official axis label overlays
+- Color swatch file (ASE and PNG)
+- Badge overlays (Gold, Silver)
+- Pre-built Google Sheets template
+
+---
+
+### ✅ Visual Requirements for Conformance
+
+To match the official ECAID chart library, your chart must include:
+
+- ✅ Axes in correct order (E → C → A → I → D, clockwise)
+- ✅ Score scale from 0 to 10
+- ✅ Clearly visible axis labels
+- ✅ Filled radar area and clean outline
+- ✅ Score label (e.g., E/C/A/I/D = 7/6/10/9/4)
+- ✅ Badge indicator (🟡 Gold or ⚪ Silver)
+
+
+---
+## ECAID Use Case Examples
+
+The ECAID framework is designed to describe a wide range of creative works involving artificial intelligence. Below are real-world inspired scenarios showing how ECAID can be applied to assess Execution, Cultural Sensitivity, Authenticity, Intention, and Disclosure.
+
+Each case includes a proposed ECAID score and a brief rationale for each axis.
+
+---
+
+### 🎵 Case 1: 100% Human Song
+
+**Description:**  
+An acoustic folk song written, performed, recorded, and produced by a human artist with no AI assistance. Lyrics are personal and original, production is modest but effective. No mention of AI is made because none is used.
+
+**Proposed Score:**  
+**E/C/A/I/D = 8/8/10/10/10** → Total: **92** → 🟡 Gold
+
+**Justification:**
+- **Execution:** Musically competent and emotionally resonant.
+- **Cultural Sensitivity:** Rooted in appropriate tradition (folk).
+- **Authenticity:** Original lyrics and performance.
+- **Intention:** Clearly personal and expressive.
+- **Disclosure:** No AI use = implicitly complete.
+
+**Summary:**  
+A fully human, self-made work of clear expressive intent. While not flashy, it embodies craft and authorship in a direct, ethical way.
+
+---
+
+### 🎛️ Case 2: AI-Augmented Hyperpop Track
+
+**Description:**  
+A hyperpop producer writes lyrics, uses a synthetic voice (trained on public datasets), and employs AI to generate harmony layers and beat textures. The artist discloses this fully in the track notes and social media.
+
+**Proposed Score:**  
+**E/C/A/I/D = 9/7/8/9/10** → Total: **86** → 🟡 Gold
+
+**Justification:**
+- **Execution:** Highly polished and dynamic.
+- **Cultural Sensitivity:** Synth voice resembles mainstream styles; use is appropriate and respectful.
+- **Authenticity:** Lyrics and arrangement are artist-originated.
+- **Intention:** Strong expressive choices visible throughout.
+- **Disclosure:** Full, open transparency about tools used.
+
+**Summary:**  
+An AI-assisted work where the human creator retains authorship. Transparent, intentional, and culturally grounded.
+
+---
+
+### 🧬 Case 3: Remix Using AI-Generated Stems
+
+**Description:**  
+A remix producer creates a beat and uses AI-generated vocals imitating a famous voice. No permission is obtained, and no disclosure is made. The track is uploaded anonymously.
+
+**Proposed Score:**  
+**E/C/A/I/D = 7/3/2/5/0** → Total: **34** → ⚪ Silver
+
+**Justification:**
+- **Execution:** Technically smooth.
+- **Cultural Sensitivity:** Ethically questionable voice mimicry.
+- **Authenticity:** Borrowed voice, no personal authorship.
+- **Intention:** Mostly stylistic, little expressive depth.
+- **Disclosure:** None. Misleading to listener.
+
+**Summary:**  
+Polished but ethically risky. Use of synthetic voice without attribution or transparency erodes trust.
+
+---
+
+### 📡 Case 4: Fully AI-Generated Background Music
+
+**Description:**  
+A production company uses a text-to-music tool to generate lo-fi ambient tracks for YouTube and meditation apps. No artist is credited. No mention of AI is made.
+
+**Proposed Score:**  
+**E/C/A/I/D = 6/5/0/2/0** → Total: **26** → ⚪ Silver
+
+**Justification:**
+- **Execution:** Passable, functional background music.
+- **Cultural Sensitivity:** Style-appropriate, but impersonal.
+- **Authenticity:** No creative authorship; all generated.
+- **Intention:** Functional, not expressive.
+- **Disclosure:** None; consumer unaware of AI origin.
+
+**Summary:**  
+A typical "invisible AI" case—undisclosed, uncredited, unexpressive. Not harmful in isolation, but lacks ethical grounding.
+
+---
+
+### 💡 Coming Soon: More Examples
+
+- Co-writing with AI lyric tools
+- Generating stems, mixing by hand
+- AI-generated visuals for music videos
+- DJ sets made from AI tracks
+- Sync licensing scenarios
+
+
+## Positioning ECAID Among Related Frameworks
+
+This commentary provides context for the role of the ECAID framework within the broader ecosystem of tools, standards, and ethical models addressing the use of artificial intelligence in creative work. It is intended to clarify the scope, intent, and boundaries of ECAID in relation to other relevant frameworks.
+
+---
+
+## 1. Purpose of ECAID
+
+ECAID (Ethical Creator Authorship and Intent Disclosure) is a descriptive framework. It does not attempt to certify training data, enforce licensing, or cryptographically track content provenance. Instead, it provides an interpretive profile of a completed creative work, focused on authorship, intent, cultural sensitivity, and disclosure.
+
+ECAID is not a legal standard, licensing system, or attribution mechanism. It is an ethical schema—intended to be used in parallel with existing technical and legal frameworks.
+
+---
+
+## 2. Relation to Existing Frameworks
+
+ECAID complements several frameworks that address adjacent but distinct concerns. Key differences are summarized below.
+
+### 2.1 Creative Commons (CC)
+
+- CC governs the *reuse* of creative content, not its *authorship or ethical construction*.
+- ECAID is independent of licensing and applies equally to proprietary, open, and unlicensed works.
+- ECAID can be applied to works under any CC license to communicate process transparency.
+
+### 2.2 Fair Use
+
+- Fair Use is a legal doctrine that permits certain unlicensed uses of copyrighted works.
+- ECAID is not concerned with legal permission but with ethical authorship and transparency.
+- A work may qualify as fair use while scoring low on ECAID due to lack of disclosure or authorship.
+
+### 2.3 C2PA (Content Provenance and Authenticity)
+
+- C2PA embeds technical provenance and manipulation data at the file level.
+- ECAID captures *interpretive authorship context*—not file metadata.
+- C2PA can be used alongside ECAID to strengthen traceability and disclosure.
+
+### 2.4 Fairly Trained and Model Cards
+
+- These frameworks address the *inputs* to generative AI models (e.g., training data sourcing and licensing).
+- ECAID addresses the *outputs* and how creators present those outputs to the public.
+- ECAID assumes creators may not have full insight into model training data and therefore focuses on disclosure and intent.
+
+---
+
+## 3. ECAID’s Assumptions and Limitations
+
+ECAID is grounded in the following assumptions:
+- AI-assisted creation is an established, ongoing reality.
+- Listeners, viewers, and collaborators are entitled to contextual information.
+- Disclosure, authorship, and cultural care remain ethically relevant, even when traditional boundaries are blurred.
+
+ECAID does not:
+- Verify source data or detect deepfakes.
+- Certify compliance with licensing or legal norms.
+- Function as a forensic or enforcement tool.
+
+It instead provides:
+- A structured vocabulary for creators to describe their relationship to a work.
+- A public profile format (radar chart + score) that is accessible to non-specialist audiences.
+- A way to build and signal ethical trust, independent of platform tagging or legal enforcement.
+
+---
+
+## 4. Practical Interoperability
+
+ECAID is designed to work *in parallel with*:
+
+| Framework | ECAID Complements by... |
+|----------|-------------------------|
+| **Creative Commons** | Describing the intent and authorship of works regardless of licensing model. |
+| **C2PA** | Adding human-readable context to machine-readable provenance. |
+| **Fairly Trained** | Communicating creator intent and disclosure when model data integrity is not self-evident. |
+| **AI Use Tags (Platform-level)** | Offering nuance beyond binary “AI used” labels. |
+| **Fair Use** | Helping clarify ethical stance even when legal reuse is permitted. |
+
+---
+
+## 5. Focus on the Present Work
+
+ECAID is intentionally agnostic about the internal contents of a model. It does not presume access to model transparency, nor does it attempt to regulate toolchains or APIs.
+
+Instead, it evaluates the **observable relationship** between a creator and a finished work—measured in terms of authorship, expressive control, cultural sensitivity, and willingness to disclose.
+
+This emphasis allows ECAID to remain usable regardless of:
+- Model type (open-source, proprietary, multimodal)
+- Platform (DSP, gallery, publishing platform)
+- Creative domain (music, video, text, image, performance)
+
+---
+
+## 6. Conclusion
+
+ECAID fills a gap left by other frameworks. It does not compete with provenance, licensing, or compliance standards. It provides a flexible, human-readable, creator-facing way to express ethical authorship in the era of generative tools.
+
+The ethical challenges of AI in the arts are not solely technical or legal. They are personal, cultural, and contextual.  
+ECAID gives creators and curators a structure for navigating those realities—one work at a time.
+
+---
+
+### 📝 Note on Use of AI in Documentation
+
+This page includes contributions generated with the assistance of AI tools to help collect, structure, and present longstanding creative knowledge. All content has been reviewed and validated for consistency with the ECAID ethical disclosure standard.
+
+---
+
+- Assess the **transparency** of the creator’s intent
+- Filter submissions based on **minimum disclosure or authorship standards**
+- Signal ethical care without resorting to binary “AI or not” classifications
+
+ECAID is not intended to be used for legal enforcement or IP verification. It is an interpretive signal—not a compliance mechanism.
+
+---
+
+### 6.2 Sample Use Cases for Curators
+
+| Context | Example Use of ECAID |
+|--------|-----------------------|
+| **Playlist Selection** | Prioritize Gold-badged works with high A/I/D scores for “emerging artist” playlists |
+| **Festival Submissions** | Require minimum D (Disclosure) and A (Authenticity) scores for AI-assisted performance categories |
+| **Sync Licensing** | Use ECAID to distinguish between expressive authorship vs. stock/generated filler |
+| **Educational Publishing** | Filter for high C/I scores to encourage culturally respectful and pedagogically sound works |
+
+---
+
+### 6.3 Suggested Thresholds (Optional)
+
+These thresholds are not mandatory but may be helpful in shaping policy:
+
+- **Minimum Disclosure Standard:** D ≥ 6
+- **Gold Badge Requirement:** Use only self-disclosed works (Gold) in certain editorial categories
+- **Authenticity Filter:** A ≥ 5 to qualify as a “creator-led” work
+- **Red Flag Zone:** Works with D ≤ 3 *and* A ≤ 3 may be flagged for manual review
+
+Curators are encouraged to define their own thresholds based on context, risk tolerance, and platform values.
+
+---
+
+### 6.4 Recommended Display Options
+
+When publicly displaying or filtering based on ECAID scores, platforms should:
+
+- Use the full 5-axis radar chart when space allows
+- Include the E/C/A/I/D shorthand (e.g., `7/6/9/10/5`)
+- Indicate badge type visually:  
+  🟡 **Gold** = self-disclosed  
+  ⚪ **Silver** = third-party estimated
+
+Avoid using ECAID scores as absolute measures of quality. The system is intended for **interpretive and ethical signaling**, not rating artistic merit.
+
+---
+
+### 6.5 Curation Ethics and Fair Access
+
+Curators should remain aware that:
+
+- A high ECAID score does not equate to legal compliance or originality
+- A low ECAID score does not imply malicious intent
+- Creators working in marginalized or resource-limited settings may have less access to disclosure tools or standardized processes
+
+Where possible, curators should offer appeal mechanisms or feedback for rejected submissions based on ECAID criteria, and use ECAID as a tool for inclusion—not exclusion.
+
+---
+
+### 6.6 Summary
+
+ECAID enables curators and institutions to assess creative works with greater nuance than binary AI tags allow. When used transparently and proportionally, it can improve trust, transparency, and alignment between platforms and creators.
+
+Curators are encouraged to adapt ECAID policies thoughtfully, publish thresholds when feasible, and treat the framework as a guide for cultural responsibility—not a gatekeeping weapon.
+
+## 7. Governance and Change Management
+
+This section defines the process by which the ECAID framework is maintained, updated, and evolved. It outlines roles, submission procedures, versioning conventions, and community participation guidelines to ensure the framework remains transparent, adaptable, and well-governed.
+
+---
+
+### 7.1 Stewardship
+
+The ECAID framework is maintained by **@ The ECAID Project**, an independent initiative led by creators, curators, and technologists committed to ethical authorship in the age of generative tools.
+
+All official releases, supporting materials, and documentation are published at [ecaid.org] (or equivalent).
+
+---
+
+### 7.2 Scope of Change
+
+Changes to the framework are categorized as follows:
+
+- **Clarifications** – Wording, examples, or explanations that improve understanding without changing definitions
+- **Adjustments** – Updates to scoring language, guidelines, or visuals that preserve core structure
+- **Extensions** – Additions of new tools, templates, or sector-specific adaptations (e.g., visual arts, text-based media)
+- **Revisions** – Structural or semantic changes to the axis definitions or scoring system itself
+
+All changes are subject to review before incorporation.
+
+---
+
+### 7.3 Change Proposal Process
+
+Anyone may propose a change to the ECAID framework by submitting a written **Change Request (ECR)** to ecaid@yourdomain.com.
+
+An ECR should include:
+
+- Proposed change summary  
+- Motivation and problem being solved  
+- Type of change (clarification, adjustment, extension, revision)  
+- Potential impact on existing users or scores  
+- Example before/after use cases (if applicable)
+
+ECRs will be reviewed in quarterly cycles by a volunteer advisory group.
+
+---
+
+### 7.4 Review and Voting
+
+Each ECR is evaluated by the **ECAID Editorial Working Group**, composed of invited contributors with domain expertise in:
+
+- Music and media production  
+- AI and creative tools  
+- Ethics and authorship studies  
+- Platform policy and curation
+
+Decisions are made by consensus. In cases of disagreement, a 2/3 majority vote determines acceptance. All accepted ECRs are recorded in the public **Change Log**.
+
+---
+
+### 7.5 Versioning Policy
+
+ECAID uses semantic versioning in the format:
+
+`ECAID vX.Y`
+
+- **Major version (X):** Structural revisions to the five axes, scoring logic, or badge system  
+- **Minor version (Y):** Clarifications, visual adjustments, or additional guidance documents
+
+For example:  
+`ECAID v1.0` → Original release  
+`ECAID v1.1` → New use cases and curator guidelines  
+`ECAID v2.0` → Revised axis definitions or scoring model
+
+All works scored under previous versions may retain that version label. Score migration is optional unless required by a partner platform.
+
+---
+
+### 7.6 Publication and Transparency
+
+All official versions of ECAID are:
+
+- Published under a Creative Commons license (CC BY-NC-ND 4.0)
+- Timestamped and archived in the official repository
+- Annotated with change summaries and rationale
+- Publicly available for reference, audit, and implementation
+
+Proposed and accepted changes are tracked on the [ECAID GitHub](https://github.com/ecaid-framework) or equivalent platform.
+
+---
+
+### 7.7 Community Participation
+
+@ The ECAID Project encourages responsible participation in framework development. Creators, curators, technologists, and researchers are invited to:
+
+- Propose changes via ECR  
+- Contribute feedback to open drafts  
+- Assist in advisory working groups  
+- Translate the standard for global accessibility  
+- Pilot new scoring models in their own communities
+
+---
+
+### 7.8 Deprecation
+
+Outdated guidance, tools, or axis language may be deprecated over time. Deprecated elements remain archived for transparency but are marked clearly as inactive.
+
+Where possible, migration paths will be documented.
+
+---
+
+### 7.9 Summary
+
+ECAID is intended to be stable but responsive. Governance ensures the framework can grow with the evolving landscape of AI-assisted creativity—without undermining its original ethical foundations.
+
+The standard remains open, interpretable, and community-guided. All changes are versioned, reviewed, and recorded.
+
+## 8. Versioning Protocol
+
+All updates to the ECAID framework are tracked using a semantic versioning system of the form:
+
+`ECAID vX.Y`
+
+- **X = Major Version**  
+  Indicates a significant structural revision to the framework, including changes to axis definitions, scoring logic, or badge classification. These changes may alter how existing works would be scored and require clear migration guidance.
+
+- **Y = Minor Version**  
+  Represents clarifications, visual refinements, new documentation, additional examples, or sector-specific adaptations. These changes do not affect the core scoring methodology or axis structure.
+
+### 8.1 Example Version History
+
+| Version | Description |
+|---------|-------------|
+| `v1.0` | Initial release with full scoring system and visual standard |
+| `v1.1` | Addition of curatorial guidelines, expanded use cases |
+| `v1.2` | Commentary document and framework comparison |
+| `v2.0` | Revised axis language or scoring scale (requires migration path) |
+
+### 8.2 Version Display
+
+All ECAID materials (including charts, profiles, and documentation) should clearly indicate the version under which they were created. Radar charts and badges may optionally include version metadata in tooltips, captions, or file tags.
+
+When used in publication or archival contexts, the version must be retained for historical and comparative accuracy.
+
+---
+
+## 9. Community Involvement Plan
+
+ECAID is intended to evolve with input from the broader creative ecosystem. While the framework is initially stewarded by @ The ECAID Project, its long-term relevance depends on participatory guidance and practical feedback from real-world use.
+
+### 9.1 Roles Open to the Community
+
+- **Proposers** – Any user may submit ECAID Change Requests (ECRs) for review.
+- **Working Group Members** – Advisory contributors with expertise in creative practice, AI tools, ethics, or media policy.
+- **Implementers** – Developers or curators applying ECAID in real-world contexts and providing outcome feedback.
+- **Translators / Localizers** – Volunteers who adapt the framework for non-English languages or specific cultural contexts.
+- **Pilot Testers** – Platforms, artists, or organizations running test implementations of new versions or axis adjustments.
+
+### 9.2 How to Participate
+
+- Submit proposals or feedback to: **ecaid@yourdomain.com**
+- Join open calls when scheduled for working group formation
+- Track changes and open issues on the ECAID GitHub repository (coming soon)
+- Share use case reports or blog posts describing your implementation
+
+### 9.3 Code of Conduct
+
+All participation is subject to a shared Code of Conduct emphasizing:
+
+- Respect for creators and communities represented in works
+- Recognition of varied cultural norms and artistic traditions
+- A shared goal of improving trust, clarity, and agency in human–AI creative interaction
+
+Violations of the Code of Conduct may result in removal from working groups or revocation of participation privileges.
+
+---
+
+## 9.4 Summary
+
+The ECAID framework is open by design. Community involvement ensures that it remains responsive to the evolving role of AI in creative work, while grounded in real ethical and expressive concerns.
+
+Contributors are invited not only to help shape the future of the framework, but to demonstrate what ethical authorship can look like—at scale, and in practice.
+
