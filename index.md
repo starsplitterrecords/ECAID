@@ -8,6 +8,7 @@ description: ECAID is a five-axis framework for evaluating and disclosing the ro
 **Ethical Creator Authorship and Intent Disclosure**
 
 ECAID is a public standard for evaluating how AI is used in creative works. It gives artists, developers, and audiences a shared framework to understand and disclose AI involvement—without binary labels or misleading assumptions.
+The current version of the standard is most application to music and music marketing, whether created with the use of generative or not.
 
 ---
 
@@ -58,6 +59,22 @@ This site includes contributions generated with the assistance of AI tools to he
 </small>
 
 ---
+
+## License
+<small>
+All content on this site, including the ECAID framework, documentation, and scoring guidelines, is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/) license.
+
+You are free to:
+
+- **Share** — copy and redistribute the material in any medium or format, including for commercial use
+
+Under the following terms:
+
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- **NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material.
+
+All content © 2025 The ECAID Project. All rights reserved.
+</small>
 
 # <a name="foundation"></a>Foundational Guide: Understanding ECAID
 
@@ -171,4 +188,85 @@ This layout is designed to suggest a narrative arc from surface to substance—w
 ## Summary
 
 ECAID provides a practical, adaptable language for talking about the complexity of AI use in creative work. It helps distinguish intent from impact, performance from process, and authorship from automation—without shaming or glorifying either.
+
+## 🧭 Tier 1: Orientation & Core Standard
+For first-time users, casual readers, and creators looking to apply the framework
+
+- [Introduction to the ECAID Standard](#ecaid-introduction)
+- [Definitions and Scope of Each Axis](#ecaid-definitions)
+- [The ECAID Checklist (v1.0)](#ecaid-checklist)
+- [Interpretation Guide for ECAID Scores](#ecaid-interpretation)
+- [Badge and Scoring Visualization Guidelines](#ecaid-visualization)
+
+## 🛠️ Tier 2: Use, Disclosure & Ethics
+For artists, labels, curators, and platforms applying or responding to the standard
+
+- [Guidelines for Self-Assessment](#ecaid-self-assessment)
+- [Guidelines for Third-Party Estimation](#ecaid-third-party)
+- [Public Disclosure and Ethics in the Absence of Regulation](#ecaid-ethics)
+- [Use of ECAID in Music Marketing and Discovery](#ecaid-marketing)
+- [ECAID Use Disclosure Templates](#ecaid-templates)
+
+## 🧠 Tier 3: Deeper Theory & Cultural Context
+For researchers, journalists, critics, and developers of adjacent tools
+
+- [Handling Synthetic Performance and AI Tools](#ecaid-synthetic-performance)
+- [Relationship Between Authenticity, Intention, and Disclosure](#ecaid-axis-relationships)
+- [Framework for Cultural Sensitivity vs Appropriation](#ecaid-cultural-framework)
+- [Application to Non-Music Creative Domains](#ecaid-non-music)
+
+## 🧩 Tier 4: Infrastructure, Publishing & Governance
+For collaborators, contributors, and organizations integrating ECAID
+
+- [Implementation Best Practices for Artists and Labels](#ecaid-best-practices)
+- [Badge Licensing and Distribution Model](#ecaid-licensing)
+- [Governance, Change Management, and Versioning](#ecaid-governance)
+- [Full ECAID Standard Reference Document](#ecaid-full-spec)
+- [Academic Proposal and Publishing Strategy](#ecaid-publishing)
+- [Official ECAID Checklist Template (v1.0)](#ecaid-checklist-template)
+
+## <a name="ecaid-introduction"></a>Introduction to the ECAID Standard
+
+**ECAID** (Ethical Creator Authorship and Intent Disclosure) is a flexible, five-axis framework for evaluating and disclosing the role of AI in the creation of expressive or artistic works. It offers a way to communicate how AI tools were used—how much, how intentionally, and with what degree of transparency—without relying on binary labels like “AI-generated” or “human-made.”
+
+Instead of forcing a yes/no answer, ECAID profiles each work across five independent dimensions:
+
+- **Execution** – How convincingly human the final result appears  
+- **Cultural Sensitivity** – How the work interacts with cultural context and stylistic traditions  
+- **Authenticity** – How much meaningful authorship or creative control was exerted by a human  
+- **Intention** – Why AI was used and with what artistic or practical purpose  
+- **Disclosure** – How transparently AI use is communicated to the audience
+
+Each axis is scored from 0–10. These scores can be visualized in a radar chart, used in metadata, referenced in liner notes, or applied internally as part of ethical review and transparency efforts.
+
+ECAID is designed primarily for music and audio-based media, but the underlying structure is applicable to other creative domains including visual art, design, literature, and more.
+
+---
+
+### Who ECAID Is For
+
+- **Artists and Producers** – Who want to document and disclose their creative workflows  
+- **Labels and Distributors** – Who need consistent metadata for discovery and trust  
+- **Curators and Editors** – Who evaluate submissions across a wide range of creative approaches  
+- **Audiences and Fans** – Who are curious about the creative process and authorship  
+- **Platforms and Developers** – Who want clearer classification beyond “AI” vs “Not AI”  
+- **Researchers and Critics** – Who need a common language to explore authorship, automation, and ethics
+
+ECAID provides nuance without judgment. It helps creators be transparent, audiences be informed, and communities have clearer conversations about how technology intersects with creativity.
+
+---
+
+### Why This Matters
+
+AI tools are already embedded in modern creative workflows. But audiences often don’t know how, where, or why they’re used. ECAID helps make those choices visible—whether the goal is trust, credit, discovery, or informed critique.
+
+ECAID supports ethical transparency by:
+
+- Encouraging thoughtful reflection and responsible use of AI
+- Helping artists communicate their process without shame or hype
+- Giving platforms and audiences better context for interpretation
+- Laying groundwork for future standards, licensing, and recognition systems
+
+This is a voluntary framework—meant to foster openness, not impose judgment.
+
 
