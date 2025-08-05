@@ -2546,3 +2546,5 @@ The ECAID framework is open by design. Community involvement ensures that it rem
 
 Contributors are invited not only to help shape the future of the framework, but to demonstrate what ethical authorship can look like—at scale, and in practice.
 
+
+The ECAID Project © 2025 by Jeff Hines is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
