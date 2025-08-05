@@ -7,8 +7,8 @@ description: ECAID is a five-axis framework for evaluating and disclosing the ro
 # ECAID  
 **Ethical Creator Authorship and Intent Disclosure**
 
-ECAID is a public standard for evaluating, disclosing, and discussing how AI and why it is used in creative works. It gives artists, developers, and audiences a shared framework to understand and disclose AI involvement—without binary labels or misleading assumptions.
-The current version of the standard is most application to music and music marketing, whether created with the use of generative or not.
+ECAID is a public standard for evaluating, disclosing, and discussing how and why generative AI is (or isn't) used in creative works. It gives artists, developers, and audiences a shared framework to understand and disclose AI involvement—without binary labels or misleading assumptions.
+The current version of the standard is most applicable to music and music marketing, created with any level of the use of generative or not.
 
 ---
 ## Why ECAID?
@@ -1894,3 +1894,43 @@ Each axis contributes to the ethical and interpretive *shape* of a creative work
 - **Low D** can sour otherwise strong work. It introduces ambiguity or deception, especially if the work performs “humanness” convincingly. Low D paired with High E is especially ethically volatile.
 
 
+## ECAID Archetypal Shapes
+
+There are **32 archetypal shapes** for ECAID radar charts.  
+Each represents a unique combination of **high (1)** and **low (0)** values across the five ECAID axes:
+
+Each binary string (e.g., `10110`) defines a distinct profile shape based on whether each axis is high (1) or low (0).
+
+### ECAID Binary Shape Index
+
+Each cell represents one of the 32 archetypal ECAID profiles:  
+`E C A I D` → `1` for High, `0` for Low
+
+|       |       |       |       |
+|-------|-------|-------|-------|
+| 00111 | 01111 | 10111 | 11111 |
+| 00101 | 01101 | 10101 | 11101 |
+| 00011 | 01011 | 10011 | 11011 |
+| 00001 | 01001 | 10001 | 11001 |
+| 00110 | 01110 | 10110 | 11110 |
+| 00100 | 01100 | 10100 | 11100 |
+| 00010 | 01010 | 10010 | 11010 |
+| 00000 | 01000 | 10000 | 11000 |
+
+---
+
+### Reference Visualization
+
+Here is each of those possibilities visualized as a radar chart:
+
+![ECAID Archetypal Shapes](ecaid_contact_sheet_grid_blue.png)
+
+---
+
+### Why These Shapes Matter
+
+One of the best parts of the ECAID system is its **non-binary labeling** of each of the five dimensions.  
+In actual use, scores can range from **0 to 10**, making the number of possible chart shapes practically infinite.
+
+But understanding these **32 binary archetypes** is useful.  
+They serve as **visual anchors**—the most exaggerated or extreme examples of a given profile—and can be used as reference points in conversation, documentation, or scoring discussions.
