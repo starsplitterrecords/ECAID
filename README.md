@@ -33,10 +33,13 @@ ECAID supports:
 
 ## 📄 Documentation
 
-- 🧭 [ECAID Full Specification](/ECAID_fullspec/)  
+- 🌐 [ECAID Project Overview](/index.md)  
+  The conceptual foundation, ethical framing, and thought leadership behind the ECAID system—introducing its goals, values, and role in shaping AI transparency in creative work.
+
+- 🧭 [ECAID Full Specification](/ecaid_fullspec/)  
   The complete scoring system, axis definitions, visual standards, and use cases.
 
-- ⚡ [ECAID Light Overview](/EC-AID_light/)  
+- ⚡ [ECAID Light Overview](/ecaid_light/)  
   A simplified scoring format (EC-AID_Light) using High/Medium/Low scores.  
   Ideal for low-friction use in publishing, reviews, and dashboards.
 
