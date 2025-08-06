@@ -1965,38 +1965,41 @@ _Above: All 32 radar charts displayed in structured grid format (8×4) using tec
 
 ### 🧠 Chart Interpretations
 
-00111|A well-intentioned, transparent project with a personal voice, but minimal craft or cultural awareness. Feels honest, even if the execution is rough.
-01111|Raw but sincere. Transparent about its origin, respectful of its influences, and rooted in a personal experience—but unpolished in form.
-10111|Polished and expressive, with clear authorship and disclosure, but lacking cultural depth. Feels stylized but floating.
-11111|Fully realized work. High craft, clear authorship, cultural care, expressive intention, and transparent disclosure. Ethical gold standard.
-00101|A rough, semi-transparent effort with some genuine voice—but little intention or context. Feels like a sketch made public.
-01101|More thoughtful in its references, with some care for influence—but still lacks deliberate structure or expressive aim.
-10101|Well-produced with some author presence and disclosure, but feels automatic. Lacks clear emotional or cultural intent.
-11101|Slick and rooted, with clarity and craft—but intention feels generic or performative. Disclosure supports interpretation.
-00011|Open and intentional, but entirely synthetic in form and authorship. A concept, not a voice.
-01011|Feels respectful and transparent, with good intent, but has no personal voice or authorship. More curatorial than creative.
-10011|Stylish, declared, and expressive—but impersonal and culturally disengaged. A clean synthetic performance.
-11011|Strong form and cultural framing, with honest intent and disclosure—but lacks personal authorship. Feels crafted by committee.
-00001|Disclosed AI output with no meaningful direction or identity. A placeholder, not a statement.
-01001|Appears to respect culture, but without authorship, execution, or expressive aim. Feels empty despite good references.
-10001|High gloss and clean output, openly disclosed—but no deeper engagement. Feels commercially competent, ethically thin.
-11001|Well-crafted and culturally fluent, but lacking identity or expressive motive. Disclosure helps mitigate ethical ambiguity.
-00110|Emotionally sincere with personal authorship—but no transparency or cultural framing. Feels vulnerable, but murky.
-01110|Earnest and rooted in culture and intention, with clear authorship—but hidden methods. Risks misleading interpretation.
-10110|Strong authorship and execution, intentionally expressive—but undisclosed. Raises questions despite emotional power.
-11110|Nearly ideal work, but lacks transparency. Without disclosure, assumptions may distort perception.
-00100|Quietly personal but unclear in motive or origin. Feels like a found object—real but contextless.
-01100|Culturally attuned and authored, but lacking intention and clarity. May be interpreted in ways not aligned with its use.
-10100|Clean production and personal authorship, but ethically foggy. Feels promotional or anonymous.
-11100|Slick and embedded in cultural understanding, with personal voice—but ambiguous in purpose and disclosure.
-00010|A conceptually expressive but structurally thin work. Feels like a prompt result with a hint of intention.
-01010|Feels like a tribute or cultural commentary. Honest in aim but distant in execution and origin.
-10010|A polished emotional gesture with no authorship or disclosure. Feels manipulative without context.
-11010|Culturally aware and expressive, but missing authorship and disclosure. Could mislead or be appropriative.
-00000|Opaque, unskilled, unauthored, unintended, undisclosed. Functionally meaningless.
-01000|Culturally adjacent work without clarity, intention, authorship, or skill. Possibly imitative or accidental.
-10000|A technically clean but decontextualized artifact. No voice, no disclosure, no roots.
-11000|Well-made, culturally stylized—but with no expressive core or ethical anchoring. Looks real, feels hollow.
+| Code   | Interpretation |
+|--------|----------------|
+| 11111 | Fully realized work. High craft, clear authorship, cultural care, expressive intention, and transparent disclosure. Ethical gold standard. |
+| 11110 | Nearly ideal work, but lacks transparency. Without disclosure, assumptions may distort perception. |
+| 11011 | Strong form and cultural framing, with honest intent and disclosure—but lacks personal authorship. Feels crafted by committee. |
+| 10111 | Polished and expressive, with clear authorship and disclosure, but lacking cultural depth. Feels stylized but floating. |
+| 11101 | Slick and rooted, with clarity and craft—but intention feels generic or performative. Disclosure supports interpretation. |
+| 01111 | Raw but sincere. Transparent about its origin, respectful of its influences, and rooted in a personal experience—but unpolished in form. |
+| 01110 | Earnest and rooted in culture and intention, with clear authorship—but hidden methods. Risks misleading interpretation. |
+| 11001 | Well-crafted and culturally fluent, but lacking identity or expressive motive. Disclosure helps mitigate ethical ambiguity. |
+| 10011 | Stylish, declared, and expressive—but impersonal and culturally disengaged. A clean synthetic performance. |
+| 10110 | Strong authorship and execution, intentionally expressive—but undisclosed. Raises questions despite emotional power. |
+| 01011 | Feels respectful and transparent, with good intent, but has no personal voice or authorship. More curatorial than creative. |
+| 01101 | More thoughtful in its references, with some care for influence—but still lacks deliberate structure or expressive aim. |
+| 11100 | Slick and embedded in cultural understanding, with personal voice—but ambiguous in purpose and disclosure. |
+| 10001 | High gloss and clean output, openly disclosed—but no deeper engagement. Feels commercially competent, ethically thin. |
+| 00111 | A well-intentioned, transparent project with a personal voice, but minimal craft or cultural awareness. Feels honest, even if the execution is rough. |
+| 11010 | Culturally aware and expressive, but missing authorship and disclosure. Could mislead or be appropriative. |
+| 01010 | Feels like a tribute or cultural commentary. Honest in aim but distant in execution and origin. |
+| 00110 | Emotionally sincere with personal authorship—but no transparency or cultural framing. Feels vulnerable, but murky. |
+| 10101 | Well-produced with some author presence and disclosure, but feels automatic. Lacks clear emotional or cultural intent. |
+| 01100 | Culturally attuned and authored, but lacking intention and clarity. May be interpreted in ways not aligned with its use. |
+| 10100 | Clean production and personal authorship, but ethically foggy. Feels promotional or anonymous. |
+| 00011 | Open and intentional, but entirely synthetic in form and authorship. A concept, not a voice. |
+| 10010 | A polished emotional gesture with no authorship or disclosure. Feels manipulative without context. |
+| 00101 | A rough, semi-transparent effort with some genuine voice—but little intention or context. Feels like a sketch made public. |
+| 01001 | Appears to respect culture, but without authorship, execution, or expressive aim. Feels empty despite good references. |
+| 00100 | Quietly personal but unclear in motive or origin. Feels like a found object—real but contextless. |
+| 00010 | A conceptually expressive but structurally thin work. Feels like a prompt result with a hint of intention. |
+| 00001 | Disclosed AI output with no meaningful direction or identity. A placeholder, not a statement. |
+| 11000 | Well-made, culturally stylized—but with no expressive core or ethical anchoring. Looks real, feels hollow. |
+| 10000 | A technically clean but decontextualized artifact. No voice, no disclosure, no roots. |
+| 01000 | Culturally adjacent work without clarity, intention, authorship, or skill. Possibly imitative or accidental. |
+| 00000 | Opaque, unskilled, unauthored, unintended, undisclosed. Functionally meaningless. |
+
 
 
 ## ECAID Visual Templates & Tooling Instructions
@@ -2548,3 +2551,6 @@ Contributors are invited not only to help shape the future of the framework, but
 
 
 The ECAID Project © 2025 by Jeff Hines is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
+
+{% include_relative ec-aid_light.md %}
+
