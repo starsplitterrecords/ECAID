@@ -10,7 +10,7 @@ description: ECAID is a five-axis framework for evaluating and disclosing the ro
 ECAID is a public standard for evaluating, disclosing, and discussing how and why generative AI is (or isn't) used in creative works. It gives artists, developers, and audiences a shared framework to understand and disclose AI involvement—without binary labels or misleading assumptions.
 The current version of the standard is most applicable to music and music marketing, created with any level of the use of generative or not.
 
-[Read the full ECAID specification](/ecaid/fullspec/)
+[Read the full ECAID specification](/ECAID_fullspec/)
 ---
 
 ## What Is ECAID?
