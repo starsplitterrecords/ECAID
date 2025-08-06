@@ -162,6 +162,97 @@ A future variant—such as **ECD-AID**—might explicitly separate:
 
 ...but that lies outside the streamlined scope of this model.
 
+## Appendix A: Reflections and Design Commentary
+### Visualization Standardization Guidelines
+
+The following visual guidelines are recommended to support consistency and clarity across EC/AID visualizations. These are not strict requirements but help ensure the meaning of each chart is legible and intuitively understood.
+
+- **Color Assignments:**
+  - **EC (Observer Scored)** → Light Blue `#66CCFF`  
+    (echoes silver; used for third-party evaluation)
+  - **AID (Creator Scored)** → Orange `#FF9933`  
+    (echoes gold; used for self-declared profiles)
+
+- **Radar Shape Orientation:**
+  - **EC**: 2-axis diamond with  
+    - `E` at the top  
+    - `C` at the bottom
+  - **AID**: 3-axis triangle with  
+    - `D` at the top  
+    - `I` bottom-left  
+    - `A` bottom-right
+
+- **Scale:** All axes should use a consistent 0–2 scale  
+- **Style:** Use translucent fills with visible outlines  
+- **Labeling:** Show numeric scores on or near each axis; display total EC and AID scores nearby
+
+These charts are intended for use in dashboards, metadata, summary pages, and creative disclosures—helping both audiences and reviewers quickly grasp how AI was used and framed in the work.
+
+## Appendix C: Interpreting EC/AID Visualizations
+
+Radar charts in the EC/AID system are meant to offer quick visual insight into how a creative work is perceived by others (**EC**) and how it is framed by the creator (**AID**). This appendix provides a guide for reading, comparing, and evaluating those visuals.
+
+---
+
+### 🔷 EC Radar (Observer View)
+
+**What you're seeing:**  
+- A 2-axis diamond chart using **light blue (`#66CCFF`)**
+- Top axis = **Execution (E)**  
+- Bottom axis = **Cultural Sensitivity (C)**
+
+**How to interpret:**
+- **Wide and tall diamond** → Strong public perception of polish and cultural fluency  
+- **Narrow or short diamond** → Work may feel artificial, awkward, or out of touch  
+- **Lopsided shape** → Uneven reception; e.g. polished execution but poor cultural grounding
+
+**Examples:**
+- **E = 2, C = 2** → Fully confident observer response (EC = 4)  
+- **E = 1, C = 0** → Functional but culturally misaligned (EC = 1)  
+- **E = 0, C = 0** → Work perceived as obviously artificial or offensive (EC = 0)
+
+---
+
+### 🟠 AID Radar (Creator View)
+
+**What you're seeing:**  
+- A 3-axis triangle chart using **orange (`#FF9933`)**
+- Top point = **Disclosure (D)**  
+- Bottom left = **Intention (I)**  
+- Bottom right = **Authenticity (A)**
+
+**How to interpret:**
+- **Full triangle** → Creator sees their work as personally meaningful, purpose-driven, and transparently disclosed  
+- **Compressed or small triangle** → Minimal creative ownership or unclear intention  
+- **Skewed triangle** → Strong on some dimensions, weak on others (e.g. high intent, low disclosure)
+
+**Examples:**
+- **A = 2, I = 2, D = 2** → Full authorial engagement (AID = 6)  
+- **A = 2, I = 1, D = 0** → Personal but undisclosed use of AI (AID = 3)  
+- **A = 0, I = 0, D = 0** → Creator disowns authorship, intent, or transparency (AID = 0)
+
+---
+
+### 🧭 Combining EC and AID Visually
+
+- **Balanced, high scores on both** → Work is well-received and intentionally crafted  
+- **High EC, low AID** → Work feels polished, but creator does not claim strong ownership or transparency  
+- **Low EC, high AID** → Sincere or intentional work that doesn’t land well with the audience  
+- **Low EC, low AID** → Likely an unpolished or procedurally generated output with little disclosure or artistic framing
+
+---
+
+### 🔍 Use Cases for Visual Reading
+
+- **Streaming or publishing metadata** → Visual EC/AID charts provide more clarity than tags like "AI-generated"  
+- **Reviewer dashboards** → Helps distinguish between polished outputs and sincere disclosures  
+- **Curation or sync** → Spot works that are either safe bets or authentic risks  
+- **Transparency profiles** → Give context for how a creator uses AI—and how it’s received
+
+---
+
+These visual summaries aren’t forensic tools. They are ethical and interpretive maps: shaped by perception, built on intent, and shared to promote trust and clarity.
+
 
 ## Notes and Attributions
 
@@ -176,9 +267,12 @@ You may copy and redistribute the material in any medium or format for any purpo
 
 ### Citation Guidance  
 To cite this document, use the following format:
-
 > The ECAID Project. (2025). *ECAID Light – EC/AID: A Practical Scoring System for AI-Involved Creative Works*. Retrieved from https://ecaid.org *(or similar)*
 
 
 
-### © The ECAID Project
+Contributors are invited not only to help shape the future of the framework, but to demonstrate what ethical authorship can look like—at scale, and in practice.
+
+The ECAID Project © 2025 by Jeff Hines is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
+
+
