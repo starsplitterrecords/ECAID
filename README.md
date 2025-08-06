@@ -33,11 +33,11 @@ ECAID supports:
 
 ## 📄 Documentation
 
-- 🧭 [ECAID Full Specification](/ecaid/fullspec/)  
+- 🧭 [ECAID Full Specification](/ECAID_fullspec/)  
   The complete scoring system, axis definitions, visual standards, and use cases.
 
-- ⚡ [ECAID Light Overview](/ecaid/light/)  
-  A simplified scoring format (EC/AID_Light) using High/Medium/Low scores.  
+- ⚡ [ECAID Light Overview](/EC-AID_light/)  
+  A simplified scoring format (EC-AID_Light) using High/Medium/Low scores.  
   Ideal for low-friction use in publishing, reviews, and dashboards.
 
 ---
