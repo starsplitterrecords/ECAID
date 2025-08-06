@@ -1,4 +1,4 @@
-# ECAID_Light – EC-AID  
+# ECAID_light – EC-AID  
 *A Practical Scoring System for AI-Involved Creative Works*
 
 ---
