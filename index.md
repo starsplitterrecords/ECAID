@@ -126,7 +126,7 @@ All content © 2025 The ECAID Project. All rights reserved.
    - [Academic Proposal and Publishing Strategy](#ecaid-publishing)
 
    ### 🧩 Tier 5: Supplemental Documents
-   For collaborators, contributors, and organizations integrating ECAID
+   For practically using ECAID
    - [Official ECAID Checklist Template (v1.0)](#ecaid-checklist-template)
 
 
@@ -1706,7 +1706,7 @@ ECAID is intended to evolve with input from the broader creative ecosystem. Whil
 
 ### 9.2 How to Participate
 
-- Submit proposals or feedback to: **ecaid@yourdomain.com**
+- Submit proposals or feedback to: **ecaid@yourdomain.com** (placeholder)
 - Join open calls when scheduled for working group formation
 - Track changes and open issues on the ECAID GitHub repository (coming soon)
 - Share use case reports or blog posts describing your implementation
@@ -1731,6 +1731,3 @@ Contributors are invited not only to help shape the future of the framework, but
 
 
 The ECAID Project © 2025 by Jeff Hines is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
-
-{% include_relative ec-aid_light.md %}
-
