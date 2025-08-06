@@ -2,6 +2,7 @@
 *A Practical Scoring System for AI-Involved Creative Works*
 
 ---
+
 ## Summary
 
 AI is now used in nearly every part of the creative process—from drafting, mixing, and mastering to idea generation, instrumentation, and formatting. But while usage is widespread, **the labeling is still binary and unnuanced**. Works are often tagged simply as “AI-Generated” or “Not AI,” which tells us little about **how** AI was used, **why** it was used, or **what role it played in authorship and intent**.
@@ -11,6 +12,7 @@ The EC-AID_Light framework introduces a practical solution. It offers a lightwei
 EC-AID_Light doesn’t aim to prove or expose. It’s a way to **surface what matters**: how a work feels, what the creator intended, and whether the audience is given a fair chance to understand the role of AI in the final result.
 
 ---
+
 ## 1. Introduction
 
 EC-AID_Light is a simplified version of the Ethical Creator Authorship and Intent Disclosure (ECAID) framework. It is designed to reduce friction in everyday use while still encouraging thoughtful evaluation of how AI contributes to creative work.
@@ -42,14 +44,14 @@ It is designed for creators, curators, platforms, supervisors, and casual audien
 
 ### Score Ranges  
 - **EC** score: 0–4 (2 axes each with scores of 0 to 2)  
-- **AID** score: 0–6 (2 axes each with scores of 0 to 2)
+- **AID** score: 0–6 (3 axes each with scores of 0 to 2)
 
 ---
 
 ## 4. EC – Observer Scoring
 
 ### 4.1 Execution (E)  
-**How convincingly the work feels human-made or skillfully realized**  
+**How convincingly the work feels human-made or skillfully realized—not based on effort or manual labor, but on expressive polish, emotional plausibility, and cohesion.**  
 - **2 (High):** Expressive, natural, emotionally fluent  
 - **1 (Medium):** Coherent but mechanical or repetitive  
 - **0 (Low):** Awkward, implausible, clearly synthetic  
@@ -129,7 +131,7 @@ Does it *feel* real? Kind of real? Not at all?
 The three-tier system reflects that reality while avoiding academic complexity.
 
 ### EC3 and AID4 as a Practical Descriptor  
-Scores like EC3 and AID4 signals:  
+Scores like EC3 and AID4 signal:  
 - The audience received the work as competent and credible  
 - The creator views it as genuinely theirs, with honest acknowledgment of AI assistance  
 
@@ -141,7 +143,7 @@ But the **separation of scoring authority** ensures that only one side of the ev
 This alone reduces performative misuse.
 
 ### Approximation vs Trust  
-The ternary system (high,medium,low) makes the scoring *feel approachable*.  
+The ternary system (high, medium, low) makes the scoring *feel approachable*.  
 But it also risks appearing vague or too soft.  
 This is a known limitation.
 
@@ -162,8 +164,9 @@ A future variant—such as **ECD-AID**—might explicitly separate:
 
 ...but that lies outside the streamlined scope of this model.
 
-## Appendix A: Reflections and Design Commentary
-### Visualization Standardization Guidelines
+---
+
+## Appendix B: Visualization Standardization Guidelines
 
 The following visual guidelines are recommended to support consistency and clarity across EC/AID visualizations. These are not strict requirements but help ensure the meaning of each chart is legible and intuitively understood.
 
@@ -188,6 +191,8 @@ The following visual guidelines are recommended to support consistency and clari
 
 These charts are intended for use in dashboards, metadata, summary pages, and creative disclosures—helping both audiences and reviewers quickly grasp how AI was used and framed in the work.
 
+---
+
 ## Appendix C: Interpreting EC/AID Visualizations
 
 Radar charts in the EC/AID system are meant to offer quick visual insight into how a creative work is perceived by others (**EC**) and how it is framed by the creator (**AID**). This appendix provides a guide for reading, comparing, and evaluating those visuals.
@@ -206,10 +211,10 @@ Radar charts in the EC/AID system are meant to offer quick visual insight into h
 - **Narrow or short diamond** → Work may feel artificial, awkward, or out of touch  
 - **Lopsided shape** → Uneven reception; e.g. polished execution but poor cultural grounding
 
-**Examples:**
-- **E = 2, C = 2** → Fully confident observer response (EC = 4)  
-- **E = 1, C = 0** → Functional but culturally misaligned (EC = 1)  
-- **E = 0, C = 0** → Work perceived as obviously artificial or offensive (EC = 0)
+**Examples:**  
+1. **E = 2, C = 2** → Fully confident observer response (EC = 4)  
+2. **E = 1, C = 0** → Functional but culturally misaligned (EC = 1)  
+3. **E = 0, C = 0** → Work perceived as obviously artificial or offensive (EC = 0)
 
 ---
 
@@ -226,15 +231,19 @@ Radar charts in the EC/AID system are meant to offer quick visual insight into h
 - **Compressed or small triangle** → Minimal creative ownership or unclear intention  
 - **Skewed triangle** → Strong on some dimensions, weak on others (e.g. high intent, low disclosure)
 
-**Examples:**
-- **A = 2, I = 2, D = 2** → Full authorial engagement (AID = 6)  
-- **A = 2, I = 1, D = 0** → Personal but undisclosed use of AI (AID = 3)  
-- **A = 0, I = 0, D = 0** → Creator disowns authorship, intent, or transparency (AID = 0)
+**Examples:**  
+1. **A = 2, I = 2, D = 2** → Full authorial engagement (AID = 6)  
+2. **A = 2, I = 1, D = 0** → Personal but undisclosed use of AI (AID = 3)  
+3. **A = 0, I = 0, D = 0** → Creator disowns authorship, intent, or transparency (AID = 0)
 
 ---
 
 ### 🧭 Combining EC and AID Visually
 
+**Example:**  
+- **EC3 / AID4** → Well-received by audience, sincere creator framing
+
+**Interpretation Patterns:**  
 - **Balanced, high scores on both** → Work is well-received and intentionally crafted  
 - **High EC, low AID** → Work feels polished, but creator does not claim strong ownership or transparency  
 - **Low EC, high AID** → Sincere or intentional work that doesn’t land well with the audience  
@@ -253,10 +262,11 @@ Radar charts in the EC/AID system are meant to offer quick visual insight into h
 
 These visual summaries aren’t forensic tools. They are ethical and interpretive maps: shaped by perception, built on intent, and shared to promote trust and clarity.
 
+---
 
 ## Notes and Attributions
 
-For detailed guidance and expanded scoring options, refer to the full **ECAID Standard** at [ecaid.org](https://ecaid.org) *(or similar reference source)*.
+For detailed guidance and expanded scoring options, refer to the full **ECAID Standard** at [ecaid.site](https://ecaid.site) *(temporary placeholder)*.
 
 ### Note on Use of AI in Documentation  
 This paper includes contributions generated with the assistance of AI tools to help collect, structure, and present longstanding knowledge. All technical content has been reviewed and validated by qualified contributors to ensure consistency with the intent and standards of the ECAID framework.
@@ -266,13 +276,6 @@ This work is licensed under a [Creative Commons Attribution-NoDerivatives 4.0 In
 You may copy and redistribute the material in any medium or format for any purpose, even commercially. However, you must give appropriate credit and may not remix, transform, or build upon the material.
 
 ### Citation Guidance  
-To cite this document, use the following format:
-> The ECAID Project. (2025). *ECAID Light – EC/AID: A Practical Scoring System for AI-Involved Creative Works*. Retrieved from https://ecaid.org *(or similar)*
-
-
-
-Contributors are invited not only to help shape the future of the framework, but to demonstrate what ethical authorship can look like—at scale, and in practice.
-
-The ECAID Project © 2025 by Jeff Hines is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
-
-
+To cite this document, use the following format:  
+> The ECAID Project. (2025). *ECAID Light – EC/AID: A Practical Scoring System for AI-Involved Creative Works*. Retrieved from xxxxxx
+---
