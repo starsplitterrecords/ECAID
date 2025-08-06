@@ -85,10 +85,10 @@ You are free to copy and redistribute the material in any format—even commerci
 ---
 
 ## ✍️ Author
-
 **Jeff Hines**  
 Maintainer and original contributor  
 [ECAID Project Website](https://ecaid.site) *(placeholder)*
+
 ---
 
 ## 🤖 AI Disclosure
