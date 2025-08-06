@@ -1,10 +1,8 @@
 ---
 layout: default
 title: ECAID Full Specification
-description: The complete ECAID framework for evaluating AI-involved creative works across five ethical axes: Execution, Cultural Sensitivity, Authenticity, Intention, and Disclosure.
-permalink: /ecaid/fullspec/
+description: "The complete ECAID framework for evaluating AI-involved creative works across five ethical axes: Execution, Cultural Sensitivity, Authenticity, Intention, and Disclosure."
 ---
-
 # ECAID – Full Specification
 
 *Ethical Creator Authorship and Intent Disclosure*
