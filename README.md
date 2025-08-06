@@ -62,6 +62,7 @@ ecaid/
 ├── ec-aid_light.md          # Simplified EC/AID Light format
 ├── _includes/               # Markdown includes for Jekyll-based rendering
 └── README.md                # You're here
+└── README.md                # Project Description
 ```
 
 ---
